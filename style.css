@@ -1,6 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
-font-family: "Poppins", sans-serif;
-.cover {
+.brightness {
   filter: brightness(40%);
 }
 .center-text {
@@ -11,9 +9,7 @@ font-family: "Poppins", sans-serif;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-h1 {
-  font-size: 3em;
-}
+
 .content {
   background-color: #1b98f5;
   color: white;
