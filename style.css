@@ -21,3 +21,19 @@
 #course {
   width: 100%;
 }
+@media (max-width: 576px) {
+  .company {
+    visibility: hidden;
+  }
+}
+@media (min-width: 576px) {
+  .company {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 768px) {
+  .company {
+    visibility: visible;
+  }
+}
